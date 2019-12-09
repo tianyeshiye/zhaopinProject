@@ -1,0 +1,15 @@
+﻿1、公众号
+东京招聘网
+
+2、画面原型参照
+导流页参考如下
+https://www.mynavi.jp/lp/
+主页（小时工，正社员，应届三个参考）
+https://www.mynavi.jp/lp/
+www.ijob.jp
+
+3、大部分功能参照
+www.ijob.jp
+
+
+
